@@ -714,4 +714,8 @@ ul.social-buttons li a:hover {
   border: #fff solid 2px;
 }
 
+div .portfolio-modal {
+  display: flex;
+  justify-content: center;
+}
 /*************************** PERSONAL SYTLES *****************************/

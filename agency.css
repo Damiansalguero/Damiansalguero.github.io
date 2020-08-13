@@ -385,8 +385,6 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .modal-dialog {
   margin: 1rem;
   max-width: 65vw;
-  display: flex;
-  justify-content: center;
 }
 
 .portfolio-modal .modal-content {
@@ -813,5 +811,8 @@ ul.social-buttons li a:hover {
   border-radius: 50%;
   border: #fff solid 2px;
 }
-
+div .portfolio-modal {
+  display: flex;
+  justify-content: center;
+}
 /*************************** PERSONAL SYTLES *****************************/
