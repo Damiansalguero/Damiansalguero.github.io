@@ -312,7 +312,7 @@ header.masthead .intro-text .intro-heading {
   margin: 0 auto;
   padding: 25px;
   text-align: center;
-  background-color: #fff;
+  background-color: #242424;
 }
 #portfolio .portfolio-item .portfolio-caption h4 {
   margin: 0;
@@ -328,6 +328,12 @@ header.masthead .intro-text .intro-heading {
 }
 #portfolio * {
   z-index: 2;
+}
+#portfolio {
+  background-color: #939393;
+}
+#portfolio h3 {
+  color: #fff;
 }
 
 .btn-portfolio {
