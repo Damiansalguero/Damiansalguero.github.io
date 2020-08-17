@@ -354,13 +354,16 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .modal-content {
   padding: 25px 0;
   text-align: center;
+  background-color: #212529;
 }
 .portfolio-modal .modal-content h2 {
   font-size: 3em;
   margin-bottom: 15px;
+  color: #fed136;
 }
 .portfolio-modal .modal-content p {
   margin-bottom: 30px;
+  color: #fed136;
 }
 .portfolio-modal .modal-content p.item-intro {
   font-size: 16px;
@@ -373,6 +376,7 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .modal-content ul.list-inline {
   margin-top: 0;
   margin-bottom: 30px;
+  color: #fff;
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
