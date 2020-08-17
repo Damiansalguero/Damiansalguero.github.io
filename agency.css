@@ -799,4 +799,11 @@ div .portfolio-modal {
   display: flex;
   justify-content: center;
 }
+#aware img {
+  height: 400px;
+}
+
+#medi img {
+  height: 400px;
+}
 /*************************** PERSONAL SYTLES *****************************/
