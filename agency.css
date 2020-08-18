@@ -427,7 +427,7 @@ header.masthead .intro-text .intro-heading {
 
 .list-inline-item {
   font-size: 16px;
-  margin-top: 5px;
+  margin-top: 25px;
 }
 
 .portfolio-modal .modal-content img {
@@ -826,5 +826,9 @@ div .portfolio-modal {
   font-size: 12px;
   color: #fff;
   text-decoration: none;
+}
+
+.footer-item {
+  margin-top: 5px;
 }
 /*************************** PERSONAL SYTLES *****************************/
